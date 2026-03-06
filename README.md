@@ -121,7 +121,7 @@ sudo pacman -S --noconfirm cmake extra-cmake-modules kdecoration qt6-declarative
 ```
 
 ```
-git clone --single-branch --depth=1 https://github.com/Bali10050/Darkly.git
+git clone --single-branch --depth=1 https://github.com/talned/Pure-Black.git
 cd Darkly
 ./install.sh
 ```
